@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'es'
+title = 'Los padres que he sido'
+theme = 'paper'
+
+[params]
+  color = "auto"      # light | dark | auto
+  rss = true
+
+[pagination]
+  pagerSize = 10

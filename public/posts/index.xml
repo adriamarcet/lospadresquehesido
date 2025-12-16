@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Los padres que he sido</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Los padres que he sido</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 16 Dec 2025 10:12:03 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carrito en El Metro</title>
+      <link>http://localhost:1313/posts/carrito-en-el-metro/</link>
+      <pubDate>Tue, 16 Dec 2025 10:12:03 +0100</pubDate>
+      <guid>http://localhost:1313/posts/carrito-en-el-metro/</guid>
+      <description>&lt;p&gt;He bajado corriendo las escaleras del metro para poder entrar a tiempo, en una mano agarrando el cochecito y en la otra tres bolsas de la compra. No me he dado cuenta que uno de mis mellizos ha tirado su biberón a las vías del tren. Cuando se  cierran las puertas me doy cuenta de que tendré que comprar otro biberón. Uno de mis hijos llora, el otro está tranquilo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
